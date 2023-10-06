@@ -1,0 +1,7 @@
+Sandbox_FR = {
+	Sandbox_CustomizableWoodWeight = "Customizable Wood + Metal Weight",
+	Sandbox_CustomizableWoodWeight_WoodWeightMult = "Multiplicateur de poids du bois",
+	Sandbox_CustomizableWoodWeight_WoodWeightMult_tooltip = "Multiplicateur appliqué à tous les objets en bois.",
+	Sandbox_CustomizableWoodWeight_MetalWeightMult = "Multiplicateur de poids du métal",
+	Sandbox_CustomizableWoodWeight_MetalWeightMult_tooltip = "Multiplicateur appliqué à tous les objets en métal.",
+}
